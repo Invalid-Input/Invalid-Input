@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Invalid
 
 You can use the [editor on GitHub](https://github.com/Invalid-Input/Invalid-Input/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
