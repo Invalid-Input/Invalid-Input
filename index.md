@@ -3,6 +3,6 @@
 ### Markdown
 
 ```markdown
-**Random Dude trying to learn
+Random Dude trying to learn
 
 ```
